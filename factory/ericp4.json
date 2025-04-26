@@ -1,0 +1,9 @@
+{
+	"name": "ericp4",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "09e42935-35e1-4906-a67d-9d5c5903b31f",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
